@@ -1,4 +1,4 @@
-# inventario-
+# Inventario/Inventory
 
 Inventory management project
 
