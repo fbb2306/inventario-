@@ -6,3 +6,5 @@ The purpose of this project is to manage tools and can be changed in order to ad
 I leave you free to copy, change and use this small project.
 
 I hope to help you
+
+Autor: Fabio Barros
